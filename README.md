@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joeybat10
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning JavaScript and SQL
+- 🌱 I’m currently learning Python, Java, and SQL
 - 📫 How to reach me: joeybattista15@gmail.com
 - 😄 Pronouns: he/him
 <!---
